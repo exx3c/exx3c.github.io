@@ -27,7 +27,7 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
    *Publicado em: Janeiro de 2024*  
    Uma introdução ao mundo da ciência de dados, explorando os conceitos básicos, ferramentas e a importância desta área em diversos setores.
    
-___
+<hr>
 
 2. **[Introdução ao Apache Spark](https://github.com/seuusuario/repo_link)**  
    *Publicado em: Fevereiro de 2024*  
