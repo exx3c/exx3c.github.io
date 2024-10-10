@@ -25,14 +25,18 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
 
 <table>
   <tr>
-    1. **[Data Science: Primeiros Passos](https://github.com/seuusuario/repo_link)**  
-    *Publicado em: Janeiro de 2024*  
-    Uma introdução ao mundo da ciência de dados, explorando os conceitos básicos, ferramentas e a importância desta área em diversos setores.
+    <td>
+      1. **[Data Science: Primeiros Passos](https://github.com/seuusuario/repo_link)**  
+      *Publicado em: Janeiro de 2024*  
+      Uma introdução ao mundo da ciência de dados, explorando os conceitos básicos, ferramentas e a importância desta área em diversos setores.
+    </td>
   </tr>
   <tr>
-    2. **[Introdução ao Apache Spark](https://github.com/seuusuario/repo_link)**  
-    *Publicado em: Fevereiro de 2024*  
-    Um guia introdutório sobre Apache Spark, explicando os fundamentos e casos de uso dessa poderosa ferramenta para processamento de dados em larga escala.
+    <td>
+      2. **[Introdução ao Apache Spark](https://github.com/seuusuario/repo_link)**  
+      *Publicado em: Fevereiro de 2024*  
+      Um guia introdutório sobre Apache Spark, explicando os fundamentos e casos de uso dessa poderosa ferramenta para processamento de dados em larga escala.
+    </td>
   </tr>
 </table>
 
