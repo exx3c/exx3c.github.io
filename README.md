@@ -1,8 +1,8 @@
 ![github-transformed](https://github.com/user-attachments/assets/5a1b4f09-51d8-4150-aa44-2de283a6225c)
 
-# Personal Projects and Portfolio
+# Projetos Pessoais e Portfólio
 
-Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção dos meus projetos pessoais, experiência profissional e um pouco sobre mim. Este portfólio foi criado para compartilhar meu trabalho, mostrar minha trajetória e possibilitar conexões com outros profissionais.
+Bem-vindo a minha página do GitHub! Aqui você encontrará uma coleção dos meus projetos pessoais, experiência profissional e afins. Esse página tem como intuito compartilhar meu trabalho, conhecimento técnico, mostrar minha evolução como Engenheiro de Dados e possibilitar conexões com outros profissionais.
 
 ## Índice
 - [Sobre Mim](#sobre-mim)
@@ -13,10 +13,11 @@ Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção dos meus proje
 ---
 
 ## Sobre Mim
-Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em [suas áreas de especialidade] e adoro criar soluções criativas e eficientes para problemas complexos. No meu tempo livre, gosto de explorar novas tecnologias e aprimorar minhas habilidades.
+Iniciei minha carreira profissional trabalhando por aproximadamente 2 anos com infraestrutura física e lógica de servidores, no qual desenvolvi projetos que envolviam desde programação e manutenção de ferramentas administrativas até instalação e configuração de servidores, firewalls, storages e switches.
 
-- **LinkedIn:** [Seu LinkedIn](https://linkedin.com)
-- **GitHub:** [Seu GitHub](https://github.com/seuusuario)
+Atualmente estou dedicado aos estudos em Ciência de Dados, com um foco específico em Engenharia de Dados devido à paixão em desenvolver soluções para problemas complexos, também acredito firmemente nessa nova era digital e na crescente demanda por processamento de grandes volumes de dados.
+
+Estou comprometido em continuar aprimorando e adquirindo mais conhecimento para conquistar um futuro na área, buscando sempre novos desafios e oportunidades de desenvolvimento profissional.
 
 ---
 
@@ -57,12 +58,10 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho regularm
 
 Se você deseja colaborar, tem alguma dúvida ou apenas quer dizer olá, fique à vontade para me contatar! 
 
-- **Email:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- **LinkedIn:** [Seu LinkedIn](https://linkedin.com)
-- **GitHub:** [Seu GitHub](https://github.com/seuusuario)
-
-Obrigado por visitar o meu portfólio! Espero que goste do meu trabalho e não hesite em entrar em contato. 
+- **Email:** [gabriel.dultra.239@gmail.com](mailto:gabriel.dultra.239@gmail.com)
+- **LinkedIn:** [gabriel-dultra](https://www.linkedin.com/in/gabriel-dultra/)
+- **GitHub:** [exx3c](https://github.com/exx3c/)
 
 ---
 
-© [Seu Nome] - Todos os direitos reservados.
+© [Gabriel Dultra] - Todos os direitos reservados.
