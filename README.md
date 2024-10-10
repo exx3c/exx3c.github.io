@@ -40,6 +40,7 @@ Tecnologias e ferramentas com as quais eu geralmente trabalho ou já trabalhei e
 - **Ferramentas Open Source:** Apache Airflow, MongoDB, PostgreSQL, MySQL, Apache Hadoop, Apache Spark, Apache NiFi
 - **Serviços:** Databricks, Snowflake
 - **Outras Habilidades:**  Docker, PowerBI, Git, Métodologia Ágil
+  
 ---
 
 ## Contato
