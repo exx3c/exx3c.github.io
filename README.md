@@ -5,7 +5,7 @@ Bem-vindo a minha página do GitHub! Aqui você encontrará um acervo dos meus p
 ## Índice
 - [Sobre Mim](#sobre-mim)
 - [Projetos](#projetos)
-- [Habilidades](#habilidades)
+- [Conhecimento Técnico](#conhecimento-tecnico)
 - [Contato](#contato)
 
 ---
@@ -20,8 +20,7 @@ Estou comprometido em continuar aprimorando e adquirindo mais conhecimento para 
 ---
 
 ## Projetos
-
-Aqui estão alguns dos projetos nos quais trabalhei recentemente. Clique nos links para explorar mais detalhes sobre cada um:
+Projetos que desenvolvi durante minha carreira como Engenheiro de Dados. Clique nos links para explorar mais detalhes sobre cada um:
 
 ### 1. Extração de Dados com Requests - [Link para o Projeto](https://github.com/seuusuario/projeto-a)
    > _Outubro de 2024_
@@ -32,14 +31,15 @@ Aqui estão alguns dos projetos nos quais trabalhei recentemente. Clique nos lin
 
 ---
 
-## Habilidades
-Aqui estão algumas das tecnologias e ferramentas com as quais trabalho regularmente:
+## Conhecimento Técnico
+Tecnologias e ferramentas com as quais eu geralmente trabalho ou trabalhei em meus projetos:
 
-- **Linguagens de Programação:** JavaScript, Python, C++
-- **Frameworks e Bibliotecas:** React, Node.js, Flask
-- **Ferramentas de Desenvolvimento:** Git, Docker, VSCode
-- **Outras Habilidades:** Gerenciamento de Projetos, Agile, Testes Automatizados
-
+- **Linguagens:** Python, SQL, Shell Script, JavaScript, HTML (Linguagem de Marcação)
+- **Bibliotecas:** Boto3, Airflow, Pyspark, HDFS, Psycopg2, BeautifulSoup4, NumPy, Pandas, Requests, Json
+- **Ferramentas Cloud AWS:** EC2, S3, RDS, DynamoDB, MWAA, Elastic Container Service, Step Functions, Lambda
+- **Ferramentas Open Source:** Apache Airflow, MongoDB, PostgreSQL, MySQL, Apache Hadoop, Apache Spark, Apache NiFi
+- **Serviços:** Databricks, Snowflake
+- **Outras Habilidades:** Gerenciamento de Projetos, Agile
 ---
 
 ## Contato
