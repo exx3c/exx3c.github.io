@@ -1,4 +1,4 @@
-<table width="100%" style="width:100%;display: block; border: none; border-radius: 10px; overflow: hidden;">
+<table>
   <!-- Imagem de Fundo -->
   <tr>
     <td width="100%" style="background-image: url('https://media.licdn.com/dms/image/v2/D4E16AQFxAQHoxQmq6w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719354406463?e=1733961600&v=beta&t=SPUztuTiGKKWeEHkbGfSGljAo_cb2sNuUZmz14ux58k'); background-size: cover; height: 200px; padding: 0;">
