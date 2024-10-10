@@ -26,8 +26,7 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
 <table>
   <tr>
     <td>
-      <h4>1. [Data Science: Primeiros Passos]</h4><br>  
-      <i>Publicado em: Janeiro de 2024</i><br><br>    
+      <h4>1. [Data Science: Primeiros Passos]<br><i>Publicado em: Janeiro de 2024</i></h4>    
       Uma introdução ao mundo da ciência de dados, explorando os conceitos básicos, ferramentas e a importância desta área em diversos setores.
     </td>
   </tr>
