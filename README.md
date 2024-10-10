@@ -25,6 +25,7 @@ Aqui estão alguns dos projetos nos quais trabalhei recentemente. Clique nos lin
 
 ### 1. Extração de Dados com Requests - [Link para o Projeto](https://github.com/seuusuario/projeto-a)
    > Atualizado em 10/10/2024
+
    - **Descrição:** Este projeto é um [breve descrição do projeto], criado para [objetivo ou uso do projeto].
    - **Tecnologias:** [Tecnologias usadas, ex: JavaScript, React, Node.js]
    - **Destaques:** [Funcionalidades principais, ex: autenticação, CRUD, API REST]
