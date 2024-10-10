@@ -4,6 +4,7 @@ Bem-vindo a minha página do GitHub! Aqui você encontrará um acervo dos meus p
 
 ## Índice
 - [Sobre Mim](#sobre-mim)
+- [Artigos](#artigos)
 - [Projetos](#projetos)
 - [Conhecimento Técnico](#conhecimento-técnico)
 - [Contato](#contato)
@@ -19,8 +20,23 @@ Estou comprometido em continuar aprimorando e adquirindo mais conhecimento para 
 
 ---
 
+## Artigos
+Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, serviços, abordagens para códigos utilizando bibliotecas essenciais para o processo de ETL, boas práticas do setor e muito mais.
+
+### Introdução ao Data Science
+1. **[Data Science: Primeiros Passos](https://github.com/seuusuario/repo_link)**  
+   *Publicado em: Janeiro de 2024*  
+   Uma introdução ao mundo da ciência de dados, explorando os conceitos básicos, ferramentas e a importância desta área em diversos setores.
+
+### Ferramentas de Big Data
+1. **[Introdução ao Apache Spark](https://github.com/seuusuario/repo_link)**  
+   *Publicado em: Fevereiro de 2024*  
+   Um guia introdutório sobre Apache Spark, explicando os fundamentos e casos de uso dessa poderosa ferramenta para processamento de dados em larga escala.
+   
+---
+
 ## Projetos
-Projetos que desenvolvi durante minha carreira como Engenheiro de Dados. Clique nos links para explorar mais detalhes sobre cada um:
+Projetos que desenvolvi durante minha carreira como Engenheiro de Dados. Explore mais detalhes sobre cada um através dos links:
 
 ### 1. Extração de Dados com Requests - [Link para o Projeto](https://github.com/seuusuario/projeto-a)
    > _Outubro de 2024_
