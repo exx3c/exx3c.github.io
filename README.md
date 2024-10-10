@@ -1,6 +1,6 @@
 ![github-transformed](https://github.com/user-attachments/assets/5a1b4f09-51d8-4150-aa44-2de283a6225c)
 
-Bem-vindo a minha página do GitHub! Aqui você encontrará uma coleção dos meus projetos pessoais, experiência profissional e afins. Esse página tem como intuito compartilhar meu trabalho, conhecimento técnico, mostrar minha evolução como Engenheiro de Dados e possibilitar conexões com outros profissionais.
+Bem-vindo a minha página do GitHub! Aqui você encontrará um acervo dos meus projetos pessoais, experiência profissional e afins. Esse página tem como intuito compartilhar meu trabalho, conhecimento técnico, mostrar minha evolução como Engenheiro de Dados e possibilitar conexões com outros profissionais.
 
 # Índice
 - [Sobre Mim](#sobre-mim)
