@@ -8,7 +8,7 @@ Bem-vindo a minha página do GitHub! Aqui você encontrará um acervo dos meus p
 - [Habilidades](#habilidades)
 - [Contato](#contato)
 
----
+--
 
 ## Sobre Mim
 Iniciei minha carreira profissional trabalhando por aproximadamente 2 anos com infraestrutura física e lógica de servidores, no qual desenvolvi projetos que envolviam desde programação e manutenção de ferramentas administrativas até instalação e configuração de servidores, firewalls, storages e switches.
