@@ -1,4 +1,4 @@
-<div style="width: 100%; border: 1px solid #dfe2e5; overflow: hidden;">
+<div style="width: 100%; border: 1px solid #dfe2e5; overflow: hidden; margin-bottom: 16px;">
   <!-- Imagem de Fundo -->
   <div style="width: 100%; background-image: url('https://media.licdn.com/dms/image/v2/D4E16AQFxAQHoxQmq6w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719354406463?e=1733961600&v=beta&t=SPUztuTiGKKWeEHkbGfSGljAo_cb2sNuUZmz14ux58k'); background-size: cover; height: 200px;"></div>
 
