@@ -23,22 +23,10 @@ Estou comprometido em continuar aprimorando e adquirindo mais conhecimento para 
 
 Aqui estão alguns dos projetos nos quais trabalhei recentemente. Clique nos links para explorar mais detalhes sobre cada um:
 
-### 1. Projeto A - [Link para o Projeto](https://github.com/seuusuario/projeto-a)
+### 1. Extração de Dados com Requests - [Link para o Projeto](https://github.com/seuusuario/projeto-a)
    - **Descrição:** Este projeto é um [breve descrição do projeto], criado para [objetivo ou uso do projeto].
    - **Tecnologias:** [Tecnologias usadas, ex: JavaScript, React, Node.js]
    - **Destaques:** [Funcionalidades principais, ex: autenticação, CRUD, API REST]
-
-### 2. Projeto B - [Link para o Projeto](https://github.com/seuusuario/projeto-b)
-   - **Descrição:** Uma aplicação [breve descrição do projeto], desenvolvida para [objetivo ou uso do projeto].
-   - **Tecnologias:** [Tecnologias usadas, ex: Python, Flask, PostgreSQL]
-   - **Destaques:** [Funcionalidades principais, ex: integração com API, painel administrativo]
-
-### 3. Projeto C - [Link para o Projeto](https://github.com/seuusuario/projeto-c)
-   - **Descrição:** Um projeto focado em [breve descrição do projeto], que visa [objetivo ou uso do projeto].
-   - **Tecnologias:** [Tecnologias usadas, ex: HTML, CSS, JavaScript]
-   - **Destaques:** [Funcionalidades principais, ex: design responsivo, animações, interatividade]
-
-*...Adicione mais projetos conforme necessário...*
 
 ---
 
