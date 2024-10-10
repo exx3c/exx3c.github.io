@@ -69,7 +69,7 @@ Projetos que desenvolvi durante minha carreira como Engenheiro de Dados. Explore
 
 ## Conhecimento Técnico
 
-```
+```python
 Tecnologias e ferramentas com as quais eu geralmente trabalho ou já trabalhei em meus projetos:
 
 - **Linguagens:** Python, SQL, Shell Script, JavaScript, HTML (Linguagem de Marcação)
