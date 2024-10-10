@@ -26,14 +26,14 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
 <table>
   <tr>
     <td>
-      1. <h3>[Data Science: Primeiros Passos]</h3><br>  
+      1. [Data Science: Primeiros Passos]<br>  
       <i>Publicado em: Janeiro de 2024</i><br>    
       Uma introdução ao mundo da ciência de dados, explorando os conceitos básicos, ferramentas e a importância desta área em diversos setores.
     </td>
   </tr>
   <tr>
     <td>
-      2. <h3>[Data Science: Primeiros Passos]</h3><br>   
+      2. [Data Science: Primeiros Passos]<br>   
       <i>Publicado em: Janeiro de 2024</i><br>    
       Um guia introdutório sobre Apache Spark, explicando os fundamentos e casos de uso dessa poderosa ferramenta para processamento de dados em larga escala.
     </td>
