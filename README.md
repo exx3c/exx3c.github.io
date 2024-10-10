@@ -5,7 +5,7 @@ Bem-vindo a minha página do GitHub! Aqui você encontrará um acervo dos meus p
 ## Índice
 - [Sobre Mim](#sobre-mim)
 - [Projetos](#projetos)
-- [Conhecimento Técnico](#conhecimento-tecnico)
+- [Conhecimento Técnico](#conhecimento-técnico)
 - [Contato](#contato)
 
 ---
