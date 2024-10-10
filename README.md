@@ -1,2 +1,2 @@
-# exx3c.github.io
+# Personal Projects and Portfolio
 My personal projects and portfolio
