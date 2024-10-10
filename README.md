@@ -53,6 +53,8 @@ Projetos que desenvolvi durante minha carreira como Engenheiro de Dados. Explore
 ---
 
 ## Conhecimento Técnico
+
+<code>
 Tecnologias e ferramentas com as quais eu geralmente trabalho ou já trabalhei em meus projetos:
 
 - **Linguagens:** Python, SQL, Shell Script, JavaScript, HTML (Linguagem de Marcação)
@@ -61,7 +63,8 @@ Tecnologias e ferramentas com as quais eu geralmente trabalho ou já trabalhei e
 - **Ferramentas Open Source:** Apache Airflow, MongoDB, PostgreSQL, MySQL, Apache Hadoop, Apache Spark, Apache NiFi
 - **Serviços:** Databricks, Snowflake
 - **Outras Habilidades:**  Docker, PowerBI, Git, Métodologia Ágil
-  
+</code>
+
 ---
 
 ## Contato
