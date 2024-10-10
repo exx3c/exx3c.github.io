@@ -1,3 +1,17 @@
+<!-- Banner de Fundo -->
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFxAQHoxQmq6w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719354406463?e=1733961600&v=beta&t=SPUztuTiGKKWeEHkbGfSGljAo_cb2sNuUZmz14ux58k" alt="Background" style="width:100%; height:300px; object-fit:cover;">
+
+<!-- Foto de Perfil e Informações -->
+<p align="left">
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQG8Zs47HC0Bew/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718231760894?e=1733961600&v=beta&t=gCoabjw99nQ7yo8QTmoVLlxMVt32tQfStIOOJsxo7fU" alt="Gabriel Dutra" width="120" height="120" style="border-radius:50%; border: 4px solid white; margin-top:-80px;">
+</p>
+
+# Gabriel Dutra
+**Estudante de Ciência de Dados e Entusiasta na área de Segurança Cibernética**
+
+📍 Campinas, São Paulo, Brasil
+
+
 # Personal Projects and Portfolio
 
 Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção dos meus projetos pessoais, experiência profissional e um pouco sobre mim. Este portfólio foi criado para compartilhar meu trabalho, mostrar minha trajetória e possibilitar conexões com outros profissionais.
