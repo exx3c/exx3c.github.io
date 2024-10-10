@@ -1,5 +1,3 @@
-![github-transformed](https://github.com/user-attachments/assets/5a1b4f09-51d8-4150-aa44-2de283a6225c)
-
 <table style="width:100%; border: none; border-radius: 10px; overflow: hidden;">
   <!-- Imagem de Fundo -->
   <tr>
