@@ -24,7 +24,7 @@ Estou comprometido em continuar aprimorando e adquirindo mais conhecimento para 
 Aqui estão alguns dos projetos nos quais trabalhei recentemente. Clique nos links para explorar mais detalhes sobre cada um:
 
 ### 1. Extração de Dados com Requests - [Link para o Projeto](https://github.com/seuusuario/projeto-a)
-   > Atualizado em 10/10/2024
+   > _Atualizado em 10/10/2024_
 
    - **Descrição:** Este projeto é um [breve descrição do projeto], criado para [objetivo ou uso do projeto].
    - **Tecnologias:** [Tecnologias usadas, ex: JavaScript, React, Node.js]
