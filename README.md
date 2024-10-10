@@ -1,4 +1,4 @@
-![{557EFA21-96EC-49A5-BA0D-8BEA4E75C10D}](https://github.com/user-attachments/assets/d18a4672-51b9-4d95-89d5-00162314e3f2)
+![github](https://github.com/user-attachments/assets/01d1cd00-a9d7-4ac3-8c2e-9d5e3cba5bb1)
 
 # Personal Projects and Portfolio
 
