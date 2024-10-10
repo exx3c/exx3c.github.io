@@ -45,7 +45,7 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
 ## Projetos
 Projetos que desenvolvi durante minha carreira como Engenheiro de Dados. Explore mais detalhes sobre cada um através dos links:
 
-### 1. Extração de Dados com Requests <i>(Outubro de 2024)</i> - [Link para o Projeto](https://github.com/seuusuario/projeto-a)
+### 1. Extração de Dados com Requests *(Outubro de 2024)* - [Link para o Projeto](https://github.com/seuusuario/projeto-a)
    - **Descrição:** Este projeto é um [breve descrição do projeto], criado para [objetivo ou uso do projeto].
    - **Tecnologias:** [Tecnologias usadas, ex: JavaScript, React, Node.js]
    - **Destaques:** [Funcionalidades principais, ex: autenticação, CRUD, API REST]
