@@ -10,7 +10,7 @@ Bem-vindo a minha página do GitHub! Aqui você encontrará um acervo dos meus p
 
 ---
 
-## Sobre Mim
+# Sobre Mim
 Iniciei minha carreira profissional trabalhando por aproximadamente 2 anos com infraestrutura física e lógica de servidores, no qual desenvolvi projetos que envolviam desde programação e manutenção de ferramentas administrativas até instalação e configuração de servidores, firewalls, storages e switches.
 
 Atualmente estou dedicado aos estudos em Ciência de Dados, com um foco específico em Engenharia de Dados devido à paixão em desenvolver soluções para problemas complexos, também acredito firmemente nessa nova era digital e na crescente demanda por processamento de grandes volumes de dados.
@@ -19,7 +19,7 @@ Estou comprometido em continuar aprimorando e adquirindo mais conhecimento para 
 
 ---
 
-## Projetos
+# Projetos
 
 Aqui estão alguns dos projetos nos quais trabalhei recentemente. Clique nos links para explorar mais detalhes sobre cada um:
 
@@ -42,7 +42,7 @@ Aqui estão alguns dos projetos nos quais trabalhei recentemente. Clique nos lin
 
 ---
 
-## Habilidades
+# Habilidades
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho regularmente:
 
 - **Linguagens de Programação:** JavaScript, Python, C++
@@ -52,7 +52,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho regularm
 
 ---
 
-## Contato
+# Contato
 
 Se você deseja colaborar, tem alguma dúvida ou apenas quer dizer olá, fique à vontade para me contatar! 
 
