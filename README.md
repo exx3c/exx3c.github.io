@@ -65,8 +65,6 @@ Tecnologias e ferramentas com as quais eu geralmente trabalho ou já trabalhei e
 - **Outras Habilidades:**  Docker, PowerBI, Git, Métodologia Ágil
 ```
 
----
-
 ## Contato
 
 Se você deseja colaborar, tem alguma dúvida ou apenas quer dizer olá, fique à vontade para me contatar! 
