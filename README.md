@@ -14,35 +14,35 @@
 </div>
 
 <div style="width: 100%; text-align: center;">
-  <a href="#sobre-mim" style="display: block; text-decoration: none; width: 100%; margin-bottom: 5px;">
+  <a href="#sobre-mim" style="display: inline-block; text-decoration: none; width: 20%;">
     <button style="width: 100%; padding: 10px; border: none; background-color: #008CBA; color: white; cursor: pointer;"
       onmouseover="this.style.backgroundColor='#005f73';"
       onmouseout="this.style.backgroundColor='#008CBA';">
       Sobre Mim
     </button>
   </a>
-  <a href="#artigos" style="display: block; text-decoration: none; width: 100%; margin-bottom: 5px;">
+  <a href="#artigos" style="display: inline-block; text-decoration: none; width: 20%;">
     <button style="width: 100%; padding: 10px; border: none; background-color: #008CBA; color: white; cursor: pointer;"
       onmouseover="this.style.backgroundColor='#005f73';"
       onmouseout="this.style.backgroundColor='#008CBA';">
       Artigos
     </button>
   </a>
-  <a href="#projetos" style="display: block; text-decoration: none; width: 100%; margin-bottom: 5px;">
+  <a href="#projetos" style="display: inline-block; text-decoration: none; width: 20%;">
     <button style="width: 100%; padding: 10px; border: none; background-color: #008CBA; color: white; cursor: pointer;"
       onmouseover="this.style.backgroundColor='#005f73';"
       onmouseout="this.style.backgroundColor='#008CBA';">
       Projetos
     </button>
   </a>
-  <a href="#conhecimento-tecnico" style="display: block; text-decoration: none; width: 100%; margin-bottom: 5px;">
+  <a href="#conhecimento-técnico" style="display: inline-block; text-decoration: none; width: 20%;">
     <button style="width: 100%; padding: 10px; border: none; background-color: #008CBA; color: white; cursor: pointer;"
       onmouseover="this.style.backgroundColor='#005f73';"
       onmouseout="this.style.backgroundColor='#008CBA';">
       Conhecimento Técnico
     </button>
   </a>
-  <a href="#contato" style="display: block; text-decoration: none; width: 100%; margin-bottom: 5px;">
+  <a href="#contato" style="display: inline-block; text-decoration: none; width: 20%;">
     <button style="width: 100%; padding: 10px; border: none; background-color: #008CBA; color: white; cursor: pointer;"
       onmouseover="this.style.backgroundColor='#005f73';"
       onmouseout="this.style.backgroundColor='#008CBA';">
@@ -50,6 +50,7 @@
     </button>
   </a>
 </div>
+
 
 Bem-vindo a minha página do GitHub! Aqui você encontrará um acervo dos meus projetos pessoais, experiência profissional e afins. Esse página tem como intuito compartilhar meu trabalho, conhecimento técnico, mostrar minha evolução como Engenheiro de Dados e possibilitar conexões com outros profissionais.
 
