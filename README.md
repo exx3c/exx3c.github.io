@@ -1,24 +1,3 @@
-<style>
-  table {
-    margin: auto;
-  }
-  button {
-    background-color: #008CBA; /* Azul */
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    text-align: center;
-    cursor: pointer;
-    font-size: 16px;
-  }
-  button:hover {
-    background-color: #005f73; /* Azul escuro ao passar o mouse */
-  }
-</style>
-
-
-
 <div style="width: 100%; border: 1px solid #dfe2e5; overflow: hidden; margin-bottom: 16px;">
   <!-- Imagem de Fundo -->
   <div style="width: 100%; background-image: url('https://media.licdn.com/dms/image/v2/D4E16AQFxAQHoxQmq6w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719354406463?e=1733961600&v=beta&t=SPUztuTiGKKWeEHkbGfSGljAo_cb2sNuUZmz14ux58k'); background-size: cover; height: 200px;"></div>
@@ -40,35 +19,44 @@ Bem-vindo a minha página do GitHub! Aqui você encontrará um acervo dos meus p
 
 
 
-<table>
-  <tr>
-    <td>
-      <a href="#sobre-mim">
-        <button>Sobre Mim</button>
-      </a>
-    </td>
-    <td>
-      <a href="#artigos">
-        <button>Artigos</button>
-      </a>
-    </td>
-    <td>
-      <a href="#projetos">
-        <button>Projetos</button>
-      </a>
-    </td>
-    <td>
-      <a href="#conhecimento-técnico">
-        <button>Conhecimento Técnico</button>
-      </a>
-    </td>
-    <td>
-      <a href="#contato">
-        <button>Contato</button>
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="text-align: center; width: 100%;">
+  <a href="#sobre-mim" style="margin: 5px; display: inline-block; text-decoration: none;">
+    <button style="padding: 10px 20px; border: none; background-color: #008CBA; color: white; border-radius: 5px; cursor: pointer;"
+      onmouseover="this.style.backgroundColor='#005f73';"
+      onmouseout="this.style.backgroundColor='#008CBA';">
+      Sobre Mim
+    </button>
+  </a>
+  <a href="#artigos" style="margin: 5px; display: inline-block; text-decoration: none;">
+    <button style="padding: 10px 20px; border: none; background-color: #008CBA; color: white; border-radius: 5px; cursor: pointer;"
+      onmouseover="this.style.backgroundColor='#005f73';"
+      onmouseout="this.style.backgroundColor='#008CBA';">
+      Artigos
+    </button>
+  </a>
+  <a href="#projetos" style="margin: 5px; display: inline-block; text-decoration: none;">
+    <button style="padding: 10px 20px; border: none; background-color: #008CBA; color: white; border-radius: 5px; cursor: pointer;"
+      onmouseover="this.style.backgroundColor='#005f73';"
+      onmouseout="this.style.backgroundColor='#008CBA';">
+      Projetos
+    </button>
+  </a>
+  <a href="#conhecimento-tecnico" style="margin: 5px; display: inline-block; text-decoration: none;">
+    <button style="padding: 10px 20px; border: none; background-color: #008CBA; color: white; border-radius: 5px; cursor: pointer;"
+      onmouseover="this.style.backgroundColor='#005f73';"
+      onmouseout="this.style.backgroundColor='#008CBA';">
+      Conhecimento Técnico
+    </button>
+  </a>
+  <a href="#contato" style="margin: 5px; display: inline-block; text-decoration: none;">
+    <button style="padding: 10px 20px; border: none; background-color: #008CBA; color: white; border-radius: 5px; cursor: pointer;"
+      onmouseover="this.style.backgroundColor='#005f73';"
+      onmouseout="this.style.backgroundColor='#008CBA';">
+      Contato
+    </button>
+  </a>
+</div>
+
 
 
 
