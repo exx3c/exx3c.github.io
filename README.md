@@ -40,7 +40,7 @@ Bem-vindo a minha página do GitHub! Aqui você encontrará um acervo dos meus p
 
 
 
-<table style="width: 100%">
+<table>
   <tr>
     <td>
       <a href="#sobre-mim">
