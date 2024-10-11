@@ -13,43 +13,37 @@
   </div>
 </div>
 
-
-
-Bem-vindo a minha página do GitHub! Aqui você encontrará um acervo dos meus projetos pessoais, experiência profissional e afins. Esse página tem como intuito compartilhar meu trabalho, conhecimento técnico, mostrar minha evolução como Engenheiro de Dados e possibilitar conexões com outros profissionais.
-
-
-
-<div style="text-align: center; width: 100%;">
-  <a href="#sobre-mim" style="margin: 5px; display: inline-block; text-decoration: none;">
-    <button style="padding: 10px 20px; border: none; background-color: #008CBA; color: white; border-radius: 5px; cursor: pointer;"
+<div style="width: 100%; text-align: center;">
+  <a href="#sobre-mim" style="display: block; text-decoration: none; width: 100%; margin-bottom: 5px;">
+    <button style="width: 100%; padding: 10px; border: none; background-color: #008CBA; color: white; cursor: pointer;"
       onmouseover="this.style.backgroundColor='#005f73';"
       onmouseout="this.style.backgroundColor='#008CBA';">
       Sobre Mim
     </button>
   </a>
-  <a href="#artigos" style="margin: 5px; display: inline-block; text-decoration: none;">
-    <button style="padding: 10px 20px; border: none; background-color: #008CBA; color: white; border-radius: 5px; cursor: pointer;"
+  <a href="#artigos" style="display: block; text-decoration: none; width: 100%; margin-bottom: 5px;">
+    <button style="width: 100%; padding: 10px; border: none; background-color: #008CBA; color: white; cursor: pointer;"
       onmouseover="this.style.backgroundColor='#005f73';"
       onmouseout="this.style.backgroundColor='#008CBA';">
       Artigos
     </button>
   </a>
-  <a href="#projetos" style="margin: 5px; display: inline-block; text-decoration: none;">
-    <button style="padding: 10px 20px; border: none; background-color: #008CBA; color: white; border-radius: 5px; cursor: pointer;"
+  <a href="#projetos" style="display: block; text-decoration: none; width: 100%; margin-bottom: 5px;">
+    <button style="width: 100%; padding: 10px; border: none; background-color: #008CBA; color: white; cursor: pointer;"
       onmouseover="this.style.backgroundColor='#005f73';"
       onmouseout="this.style.backgroundColor='#008CBA';">
       Projetos
     </button>
   </a>
-  <a href="#conhecimento-tecnico" style="margin: 5px; display: inline-block; text-decoration: none;">
-    <button style="padding: 10px 20px; border: none; background-color: #008CBA; color: white; border-radius: 5px; cursor: pointer;"
+  <a href="#conhecimento-tecnico" style="display: block; text-decoration: none; width: 100%; margin-bottom: 5px;">
+    <button style="width: 100%; padding: 10px; border: none; background-color: #008CBA; color: white; cursor: pointer;"
       onmouseover="this.style.backgroundColor='#005f73';"
       onmouseout="this.style.backgroundColor='#008CBA';">
       Conhecimento Técnico
     </button>
   </a>
-  <a href="#contato" style="margin: 5px; display: inline-block; text-decoration: none;">
-    <button style="padding: 10px 20px; border: none; background-color: #008CBA; color: white; border-radius: 5px; cursor: pointer;"
+  <a href="#contato" style="display: block; text-decoration: none; width: 100%; margin-bottom: 5px;">
+    <button style="width: 100%; padding: 10px; border: none; background-color: #008CBA; color: white; cursor: pointer;"
       onmouseover="this.style.backgroundColor='#005f73';"
       onmouseout="this.style.backgroundColor='#008CBA';">
       Contato
@@ -57,10 +51,7 @@ Bem-vindo a minha página do GitHub! Aqui você encontrará um acervo dos meus p
   </a>
 </div>
 
-
-
-
-
+Bem-vindo a minha página do GitHub! Aqui você encontrará um acervo dos meus projetos pessoais, experiência profissional e afins. Esse página tem como intuito compartilhar meu trabalho, conhecimento técnico, mostrar minha evolução como Engenheiro de Dados e possibilitar conexões com outros profissionais.
 
 ## Índice
 - [Sobre Mim](#sobre-mim)
