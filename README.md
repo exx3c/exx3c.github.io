@@ -3,7 +3,7 @@
   <div style="width: 100%; background-image: url('https://media.licdn.com/dms/image/v2/D4E16AQFxAQHoxQmq6w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719354406463?e=1733961600&v=beta&t=SPUztuTiGKKWeEHkbGfSGljAo_cb2sNuUZmz14ux58k'); background-size: cover; height: 200px;"></div>
 
   <!-- Conteúdo Principal: Foto de Perfil e Informações -->
-  <div style="width: 100%; text-align: left; padding: 20px; margin-top: -72px;">
+  <div style="width: 100%; text-align: left; padding: 20px; padding-bottom: 4px; margin-top: -72px;">
     <!-- Foto de Perfil -->
     <img src="https://media.licdn.com/dms/image/v2/D4E03AQG8Zs47HC0Bew/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718231760894?e=1733961600&v=beta&t=gCoabjw99nQ7yo8QTmoVLlxMVt32tQfStIOOJsxo7fU" alt="Gabriel Dutra" style="width: 150px; height: 150px; border-radius: 50%; border: 4px solid white; margin-top: -60px;">
     <!-- Nome e Descrição -->
