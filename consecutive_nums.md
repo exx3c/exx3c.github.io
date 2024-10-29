@@ -1,14 +1,14 @@
 ## 180. Consecutive Numbers
 
 
-> +-------------+---------+
-> | Column Name | Type    |
-> +-------------+---------+
-> | id          | int     |
-> | num         | varchar |
-> +-------------+---------+
-> In SQL, id is the primary key for this table.
-> id is an autoincrement column starting from 1.
+> +-------------+---------+ <br>
+> | Column Name | Type    | <br>
+> +-------------+---------+ <br>
+> | id          | int     | <br>
+> | num         | varchar | <br>
+> +-------------+---------+ <br>
+> In SQL, id is the primary key for this table. <br>
+> id is an autoincrement column starting from 1. <br>
  
 
 Find all numbers that appear at least three times consecutively.
