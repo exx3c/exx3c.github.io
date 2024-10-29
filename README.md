@@ -39,9 +39,9 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
 <table>
   <tr>
     <td>
-      <a href="#"><b>[Data Science: Primeiros Passos]</b></a><br>
-      <i>Publicado em: Janeiro de 2024</i><br><br>
-      <p>Uma introdução ao mundo da ciência de dados, explorando os conceitos básicos, ferramentas e a importância desta área em diversos setores.</p>
+      <a href="consecutive_nums"><b>[Apache Spark + Databricks: Manipulando Dataframes com PySpark]</b></a><br>
+      <i>Publicado em: Outubro de 2024</i><br><br>
+      <p>Resolvendo um problema importado do LeetCode com PySpark através do Databricks.</p>
     </td>
   </tr>
   <tr>
