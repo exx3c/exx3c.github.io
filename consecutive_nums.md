@@ -1,4 +1,4 @@
-## 180. Consecutive Numbers
+## Problema: 180. Consecutive Numbers (LeetCode)
 
 ```
 +-------------+---------+
