@@ -10,14 +10,13 @@
 In SQL, id is the primary key for this table.
 id is an autoincrement column starting from 1.
  ```
-
+<br>
 Find all numbers that appear at least three times consecutively.
 
 Return the result table in any order.
 
 The result format is in the following example.
-
- 
+<br>
 **Example 1:**
 
 ```
