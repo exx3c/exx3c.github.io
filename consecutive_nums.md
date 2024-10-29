@@ -2,10 +2,10 @@
 
 
 > +-------------+---------+ <br>
-> | Column Name | Type    | <br>
+> `| Column Name | Type    |` <br>
 > +-------------+---------+ <br>
-> | id          | int     | <br>
-> | num         | varchar | <br>
+> `| id          | int     |` <br>
+> `| num         | varchar |` <br>
 > +-------------+---------+ <br>
 > In SQL, id is the primary key for this table. <br>
 > id is an autoincrement column starting from 1. <br>
