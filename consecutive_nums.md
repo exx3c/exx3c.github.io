@@ -60,3 +60,7 @@ Explanation: 1 is the only number that appears consecutively for at least three 
 ### 3. Através da função where podemos então selecionar apenas as linhas em que as 3 colunas possuem o mesmo valor, ou seja, há 3 números iguais consecutivos. E por fim selecionamos apenas a coluna "num", excluimos os duplicados e renomeamos a coluna para o que o formato de output do problema seja satisfeito.
 
 ![image](https://github.com/user-attachments/assets/6ddf890b-fefc-4102-a8c7-f9cd8a2b200e)
+
+## Analise do LeetCode:
+
+![image](https://github.com/user-attachments/assets/3ac582a5-b00a-4ec6-9edb-9ed63c0cfc91)
