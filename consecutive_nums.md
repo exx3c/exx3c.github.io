@@ -53,7 +53,7 @@ Explanation: 1 is the only number that appears consecutively for at least three 
 
 ![image](https://github.com/user-attachments/assets/f87dc0d7-0b2d-4773-9577-9cc41e2be379)
 
-### 2. Criamos uma janela de operação para que possamos utilizar a função ```lead()```, e duas novas colunas agregadas ao Dataframe. Onde a primeira e a segunda nova coluna representam o primeiro e o segundo valor das próximas linhas respectivamente.
+### 2. Criamos uma janela de operação para que possamos utilizar a função ```lead()```, e duas novas colunas agregadas ao Dataframe. Onde a primeira e a segunda nova coluna representam o primeiro e o segundo valor das próximas linhas da coluna "num" respectivamente.
 
 ![image](https://github.com/user-attachments/assets/5922cc10-c025-48be-904b-5f86f85d732f)
 
