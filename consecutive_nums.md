@@ -49,8 +49,8 @@ Explanation: 1 is the only number that appears consecutively for at least three 
 
 ## Solução para o PySpark aproveitando clusters do Databricks
 
-![community cloud databricks com__o=3837013705426195 (3)](https://github.com/user-attachments/assets/2df3b175-a15c-4bff-ae15-b375d22e53ce)
+![image](https://github.com/user-attachments/assets/b0d25010-b131-4193-914e-d93a8932bc53)
 
-![community cloud databricks com__o=3837013705426195 (4)](https://github.com/user-attachments/assets/4cc7b262-7a4b-45f5-abe3-f0478ffec2f6)
+![image](https://github.com/user-attachments/assets/89f9edf6-c09e-47c6-958f-3be84ae559db)
 
-![community cloud databricks com__o=3837013705426195 (5)](https://github.com/user-attachments/assets/550d2464-a839-4e55-ba9e-1628cd17c61d)
+![image](https://github.com/user-attachments/assets/2b1cd2af-ecf7-4fa9-8c5b-332d1a0d7283)
