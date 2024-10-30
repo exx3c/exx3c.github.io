@@ -46,3 +46,11 @@ Output:
 +-----------------+
 Explanation: 1 is the only number that appears consecutively for at least three times.
 ```
+
+## Solução para o PySpark aproveitando clusters do Databricks
+
+![community cloud databricks com__o=3837013705426195 (3)](https://github.com/user-attachments/assets/2df3b175-a15c-4bff-ae15-b375d22e53ce)
+
+![community cloud databricks com__o=3837013705426195 (4)](https://github.com/user-attachments/assets/4cc7b262-7a4b-45f5-abe3-f0478ffec2f6)
+
+![community cloud databricks com__o=3837013705426195 (5)](https://github.com/user-attachments/assets/550d2464-a839-4e55-ba9e-1628cd17c61d)
