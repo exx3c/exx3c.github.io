@@ -8,7 +8,7 @@
     <img src="https://media.licdn.com/dms/image/v2/D4E03AQG8Zs47HC0Bew/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718231760894?e=1733961600&v=beta&t=gCoabjw99nQ7yo8QTmoVLlxMVt32tQfStIOOJsxo7fU" alt="Gabriel Dutra" style="width: 150px; height: 150px; border-radius: 50%; border: 4px solid white; margin-top: -60px;">
     <!-- Nome e Descrição -->
     <h2>Gabriel Dultra</h2>
-    <p>Estudante de Ciência de Dados & Entusiasta na área de Segurança Cibernética</p>
+    <p>Engenheiro de Dados Jr & Entusiasta na área de Cibersegurança</p>
     <p>Campinas, São Paulo, Brasil</p>
   </div>
 </div>
