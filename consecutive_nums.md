@@ -75,7 +75,7 @@ A estratégia original com pandas consistia em duplicar a coluna 'num' e, em seg
 
 ## Recursos e Referências
 
-- [Documentação do PySpark](https://spark.apache.org/docs/latest/api/python/)
+- [API Reference do PySpark](https://spark.apache.org/docs/latest/api/python/reference/index.html)
 - [Guia de Janelas no PySpark](https://sparkbyexamples.com/pyspark/pyspark-window-functions/)
 
 ---
