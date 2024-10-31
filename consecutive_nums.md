@@ -6,8 +6,6 @@
 
 Para este cenário, selecionei um problema do LeetCode originalmente voltado para solução com pandas e adaptei a resolução para o ambiente Databricks, utilizando PySpark. Embora pandas seja ideal para manipulação de dados em pequena escala, PySpark é projetado para processamento distribuído, permitindo trabalhar com grandes volumes de dados de maneira mais eficiente.
 
----
-
 ## Problema: 180. Consecutive Numbers (LeetCode)
 
 ```
@@ -53,24 +51,42 @@ Output:
 Explanation: 1 is the only number that appears consecutively for at least three times.
 ```
 
+---
+
 ## Solução:
 
 A estratégia original com pandas consistia em duplicar a coluna 'num' e, em seguida, usar a função ```shift()``` para deslocar cada coluna duplicada uma posição acima. Isso permitia que, ao combinarmos as colunas, cada linha contivesse o segundo e terceiro valores consecutivos para cada item inicial. Com PySpark, essa operação é simplificada graças à função ```lead()```, que permite acessar diretamente o valor da próxima linha ao aplicar uma operação de janela. Isso facilita a obtenção dos valores consecutivos de forma nativa e eficiente.
 
-### Etapas da Solução:
+### Etapas:
 
-#### 1. Definimos os dados e schema e criamos um Dataframe Spark.
+#### 1. Definimos os dados e o esquema (schema) e, em seguida, criamos um DataFrame.
 
 ![image](https://github.com/user-attachments/assets/f87dc0d7-0b2d-4773-9577-9cc41e2be379)
 
-#### 2. Criamos uma janela de operação para que possamos utilizar a função ```lead()```, e duas novas colunas agregadas ao Dataframe. Onde a primeira e a segunda nova coluna representam o primeiro e o segundo valor das próximas linhas da coluna "num" respectivamente.
+#### 2. Criamos uma janela de operação que nos permite utilizar a função ```lead()``` para adicionar duas novas colunas ao DataFrame. A primeira coluna representa o próximo valor na sequência da coluna 'num', enquanto a segunda coluna captura o valor subsequente. Dessa forma, cada linha contém o valor atual junto aos dois próximos valores consecutivos da coluna 'num'.
 
 ![image](https://github.com/user-attachments/assets/5922cc10-c025-48be-904b-5f86f85d732f)
 
-#### 3. Através da função where podemos então selecionar apenas as linhas em que as 3 colunas possuem o mesmo valor, ou seja, há 3 números iguais consecutivos. E por fim selecionamos apenas a coluna "num", excluimos os duplicados e renomeamos a coluna para o que o formato de output do problema seja satisfeito.
+#### 3. Utilizamos a função ```where()``` para filtrar apenas as linhas em que as três colunas possuem o mesmo valor, indicando a presença de três números iguais consecutivos. Em seguida, selecionamos apenas a coluna 'num', removemos os valores duplicados e renomeamos a coluna para atender ao formato de saída especificado pelo problema.
 
 ![image](https://github.com/user-attachments/assets/6ddf890b-fefc-4102-a8c7-f9cd8a2b200e)
+
+---
 
 ## Analise do LeetCode:
 
 ![image](https://github.com/user-attachments/assets/3ac582a5-b00a-4ec6-9edb-9ed63c0cfc91)
+
+---
+
+## Contato
+
+Se você deseja colaborar, tem alguma dúvida ou apenas quer dizer olá, fique à vontade para me contatar! 
+
+- **Email:** [gabriel.dultra.239@gmail.com](mailto:gabriel.dultra.239@gmail.com)
+- **LinkedIn:** [gabriel-dultra](https://www.linkedin.com/in/gabriel-dultra/)
+- **GitHub:** [exx3c](https://github.com/exx3c/)
+
+---
+
+© [Gabriel Dultra] - Todos os direitos reservados.
