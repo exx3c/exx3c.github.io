@@ -63,9 +63,13 @@ A estratégia original com pandas consistia em duplicar a coluna 'num' e, em seg
 
 ![image](https://github.com/user-attachments/assets/f87dc0d7-0b2d-4773-9577-9cc41e2be379)
 
+---
+
 #### 2. Criamos uma janela de operação que nos permite utilizar a função ```lead()``` para adicionar duas novas colunas ao DataFrame. A primeira coluna representa o próximo valor na sequência da coluna 'num', enquanto a segunda coluna captura o valor subsequente. Dessa forma, cada linha contém o valor atual junto aos dois próximos valores consecutivos da coluna 'num'.
 
 ![image](https://github.com/user-attachments/assets/5922cc10-c025-48be-904b-5f86f85d732f)
+
+---
 
 #### 3. Utilizamos a função ```where()``` para filtrar apenas as linhas em que as três colunas possuem o mesmo valor, indicando a presença de três números iguais consecutivos. Em seguida, selecionamos apenas a coluna 'num', removemos os valores duplicados e renomeamos a coluna para atender ao formato de saída especificado pelo problema.
 
