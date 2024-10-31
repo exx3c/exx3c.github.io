@@ -73,15 +73,14 @@ A estratégia original com pandas consistia em duplicar a coluna 'num' e, em seg
 
 ---
 
-## Analise do LeetCode:
+## Recursos e Referências
 
-![image](https://github.com/user-attachments/assets/3ac582a5-b00a-4ec6-9edb-9ed63c0cfc91)
+- [Documentação do PySpark](https://spark.apache.org/docs/latest/api/python/)
+- [Guia de Janelas no PySpark](https://sparkbyexamples.com/pyspark/pyspark-window-functions/)
 
----
+## Agradecimentos e Contato
 
-## Contato
-
-Se você deseja colaborar, tem alguma dúvida ou apenas quer dizer olá, fique à vontade para me contatar! 
+Obrigado por acompanhar este artigo! Fique à vontade para enviar sugestões ou se apenas quer dizer olá, fique à vontade para me contatar!
 
 - **Email:** [gabriel.dultra.239@gmail.com](mailto:gabriel.dultra.239@gmail.com)
 - **LinkedIn:** [gabriel-dultra](https://www.linkedin.com/in/gabriel-dultra/)
