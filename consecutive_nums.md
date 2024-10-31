@@ -2,6 +2,12 @@
  <div style="width: 100%; background-image: url('https://raw.githubusercontent.com/exx3c/exx3c.github.io/refs/heads/main/1_FzQPxYZJfrLZaoseXoIOuw.png'); background-size: cover; background-position: center; height: 110px;"></div>
 </div>
 
+# Apache Spark + Databricks: Manipulando Dataframes com PySpark
+
+Para este cenário, selecionei um problema do LeetCode originalmente voltado para solução com pandas e adaptei a resolução para o ambiente Databricks, utilizando PySpark. Embora pandas seja ideal para manipulação de dados em pequena escala, PySpark é projetado para processamento distribuído, permitindo trabalhar com grandes volumes de dados de maneira mais eficiente.
+
+---
+
 ## Problema: 180. Consecutive Numbers (LeetCode)
 
 ```
@@ -49,15 +55,19 @@ Explanation: 1 is the only number that appears consecutively for at least three 
 
 ## Solução:
 
-### 1. Definimos os dados e schema e criamos um Dataframe Spark.
+A estratégia original com pandas consistia em duplicar a coluna 'num' e, em seguida, usar a função ```shift()``` para deslocar cada coluna duplicada uma posição acima. Isso permitia que, ao combinarmos as colunas, cada linha contivesse o segundo e terceiro valores consecutivos para cada item inicial. Com PySpark, essa operação é simplificada graças à função ```lead()```, que permite acessar diretamente o valor da próxima linha ao aplicar uma operação de janela. Isso facilita a obtenção dos valores consecutivos de forma nativa e eficiente.
+
+### Etapas da Solução:
+
+#### 1. Definimos os dados e schema e criamos um Dataframe Spark.
 
 ![image](https://github.com/user-attachments/assets/f87dc0d7-0b2d-4773-9577-9cc41e2be379)
 
-### 2. Criamos uma janela de operação para que possamos utilizar a função ```lead()```, e duas novas colunas agregadas ao Dataframe. Onde a primeira e a segunda nova coluna representam o primeiro e o segundo valor das próximas linhas da coluna "num" respectivamente.
+#### 2. Criamos uma janela de operação para que possamos utilizar a função ```lead()```, e duas novas colunas agregadas ao Dataframe. Onde a primeira e a segunda nova coluna representam o primeiro e o segundo valor das próximas linhas da coluna "num" respectivamente.
 
 ![image](https://github.com/user-attachments/assets/5922cc10-c025-48be-904b-5f86f85d732f)
 
-### 3. Através da função where podemos então selecionar apenas as linhas em que as 3 colunas possuem o mesmo valor, ou seja, há 3 números iguais consecutivos. E por fim selecionamos apenas a coluna "num", excluimos os duplicados e renomeamos a coluna para o que o formato de output do problema seja satisfeito.
+#### 3. Através da função where podemos então selecionar apenas as linhas em que as 3 colunas possuem o mesmo valor, ou seja, há 3 números iguais consecutivos. E por fim selecionamos apenas a coluna "num", excluimos os duplicados e renomeamos a coluna para o que o formato de output do problema seja satisfeito.
 
 ![image](https://github.com/user-attachments/assets/6ddf890b-fefc-4102-a8c7-f9cd8a2b200e)
 
