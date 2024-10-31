@@ -70,12 +70,12 @@ Projetos que desenvolvi durante minha carreira como Engenheiro de Dados. Explore
 ```
 Tecnologias e ferramentas com as quais eu geralmente trabalho ou já trabalhei em meus projetos:
 
-- **Linguagens:** Python, SQL, Shell Script, JavaScript, HTML (Linguagem de Marcação)
-- **Bibliotecas:** Boto3, Airflow, Pyspark, HDFS, Psycopg2, BeautifulSoup4, NumPy, Pandas, Requests, Json
-- **Ferramentas Cloud AWS:** EC2, S3, RDS, DynamoDB, MWAA, Redshift, Glue, Step Functions, Lambda, Athena, Elastic Container Service
-- **Ferramentas Open Source:** Apache Airflow, MongoDB, PostgreSQL, MySQL, Apache Hadoop, Apache Spark, Apache NiFi
-- **Serviços:** Databricks, Snowflake
-- **Outras Habilidades:**  Docker, PowerBI, Git, Métodologia Ágil
+Linguagens:                Python, SQL, Shell Script, JavaScript, HTML (Linguagem de Marcação)
+Bibliotecas:               Boto3, Airflow, Pyspark, HDFS, Psycopg2, BeautifulSoup4, NumPy, Pandas, Requests, Json
+Ferramentas Cloud AWS:     EC2, S3, RDS, DynamoDB, MWAA, Redshift, Glue, Step Functions, Lambda, Athena, Elastic Container Service
+Ferramentas Open Source:   Apache Airflow, MongoDB, PostgreSQL, MySQL, Apache Hadoop, Apache Spark, Apache NiFi
+Serviços:                  Databricks, Snowflake
+Outras Habilidades:        Docker, PowerBI, Git, Métodologia Ágil
 ```
 
 ## Contato
