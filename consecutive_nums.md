@@ -77,12 +77,12 @@ A estratégia original com pandas consistia em duplicar a coluna 'num' e, em seg
 
 ---
 
+# Conclusão
+
 ## Recursos e Referências
 
 - [API Reference do PySpark](https://spark.apache.org/docs/latest/api/python/reference/index.html)
 - [Guia de Janelas no PySpark](https://sparkbyexamples.com/pyspark/pyspark-window-functions/)
-
----
 
 ## Agradecimentos e Contato
 
