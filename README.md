@@ -40,7 +40,7 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
   <tr>
     <td>
       <a href="consecutive_nums"><b>[Apache Spark + Databricks: Manipulando Dataframes com PySpark]</b></a><br>
-      <i>Publicado em: Outubro de 2024</i><br><br>
+      <i>Publicado em: Outubro de 2024</i> ```#Databricks``` ```#ApacheSpark``` ```#PySpark``` ```#Pandas``` ```#LeetCode``` ```#Dataframes```<br><br>
       <p>Resolvendo um problema importado do LeetCode com PySpark através do Databricks. O problema aborda manipulação de Dataframes com Operação de Janela, Filtros Condicionais, Agregação e Agrupamento.</p>
     </td>
   </tr>
