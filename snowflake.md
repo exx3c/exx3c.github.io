@@ -226,6 +226,7 @@ SELECT * FROM ClientesMedias
 <table>
   <thead>
     <tr>
+     <th></th>
       <th>Genero</th>
       <th>FaixaEtaria</th>
       <th>Quantidade</th>
@@ -235,18 +236,36 @@ SELECT * FROM ClientesMedias
   </thead>
   <tbody>
     <tr>
+     <td>0</td>
       <td>F</td>
       <td>Adulto</td>
-      <td>1</td>
-      <td>25</td>
-      <td>150.50</td>
+      <td>464</td>
+      <td>40</td>
+      <td>2,513.14</td>
     </tr>
     <tr>
+     <td>1</td>
       <td>M</td>
       <td>Adulto</td>
-      <td>2</td>
-      <td>40</td>
-      <td>260.83</td>
+      <td>435</td>
+      <td>41</td>
+      <td>2,534.93</td>
+    </tr>
+   <tr>
+     <td>2</td>
+      <td>F</td>
+      <td>Idoso</td>
+      <td>41</td>
+      <td>67</td>
+      <td>2,351.51</td>
+    </tr>
+   <tr>
+     <td>3</td>
+      <td>M</td>
+      <td>Idoso</td>
+      <td>60</td>
+      <td>67</td>
+      <td>2,146.78</td>
     </tr>
   </tbody>
 </table>
