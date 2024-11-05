@@ -39,16 +39,16 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
 <table>
   <tr>
     <td>
-      <a href="consecutive_nums"><b>[Apache Spark + Databricks: Manipulando Dataframes com PySpark]</b></a><br>
+      <a href="databricks"><b>[Apache Spark + Databricks: Manipulando Dataframes com PySpark]</b></a><br>
       <i>Publicado em: Outubro de 2024</i><br><br>
       <p>Resolvendo um problema importado do LeetCode com PySpark através do Databricks. O problema aborda manipulação de Dataframes com Operação de Janela, Filtros Condicionais, Agregação e Agrupamento.</p>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#"><b>[Data Science: Primeiros Passos]</b></a><br>   
-      <i>Publicado em: Janeiro de 2024</i><br><br>        
-      <p>Um guia introdutório sobre Apache Spark, explicando os fundamentos e casos de uso dessa poderosa ferramenta para processamento de dados em larga escala.</p>
+      <a href="snowflake"><b>[Snowflake: Primeiros passos com Pipeline de Dados no Snowflake]</b></a><br>   
+      <i>Publicado em: Novembro de 2024</i><br><br>        
+      <p>Introdução prática ao Snowflake, cobrindo operações SQL essenciais de ingestão, transformação e análise de dados.</p></p>
     </td>
   </tr>
 </table>
