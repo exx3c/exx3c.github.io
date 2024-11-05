@@ -28,4 +28,5 @@ CREATE OR REPLACE TABLE Clientes (
   <td>Table CLIENTES successfully created.</td>
  </tr>
 </table>
+
 ---
