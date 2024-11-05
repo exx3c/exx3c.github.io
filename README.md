@@ -48,7 +48,7 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
     <td>
       <a href="snowflake"><b>[Snowflake: Primeiros passos com Pipeline de Dados no Snowflake]</b></a><br>   
       <i>Publicado em: Novembro de 2024</i><br><br>        
-      <p>Introdução prática ao Snowflake, cobrindo operações SQL essenciais de ingestão, transformação e análise de dados.</p></p>
+      <p>Introdução prática ao Snowflake, cobrindo operações SQL essenciais de ingestão, transformação e análise de dados.</p>
     </td>
   </tr>
 </table>
