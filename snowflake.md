@@ -252,3 +252,17 @@ SELECT * FROM ClientesMedias
 </table>
 
 ---
+
+## Snowflake Dashboards (Análise de Dados):
+O Snowflake também nos oferece a funcionalidade de criação de Dashboards e Gráficos para análise visual. Aqui exploramos um pouco dessas funcionalidades utilizando a tabela ```Clientes``` como fonte de dados.
+
+<h3>Relacionando Idade com ValorCompra através do Gráfico de Barras</h3>
+![image](https://github.com/user-attachments/assets/d60aceb4-0c1f-4c55-b49b-975aa7406511)
+<br>
+<h3>Analisando médias com Heatgrid através da relação entre Cidade e FaixaEtaria</h3>
+![image](https://github.com/user-attachments/assets/253735c4-9614-4b62-b370-3e26b61dc12e)
+
+---
+
+
+![image](https://github.com/user-attachments/assets/92a6e9fb-7d3c-44f1-94cb-8e48a9dad18e)
