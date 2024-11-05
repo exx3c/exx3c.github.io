@@ -288,3 +288,22 @@ O Snowflake também oferece a funcionalidade de criação de Dashboards e Gráfi
 ![image](https://github.com/user-attachments/assets/253735c4-9614-4b62-b370-3e26b61dc12e)
 
 ---
+
+# Conclusão
+
+## Recursos e Referências
+
+- [Snowflake Reference Documentation](https://docs.snowflake.com/en/reference)
+- [SQL Statements Examples](https://www.w3schools.com/sql/default.asp)
+
+## Agradecimentos e Contato
+
+Obrigado por acompanhar este artigo! Fique à vontade para enviar sugestões ou se apenas quer dizer olá, fique à vontade para me contatar!
+
+- **Email:** [gabriel.dultra.239@gmail.com](mailto:gabriel.dultra.239@gmail.com)
+- **LinkedIn:** [gabriel-dultra](https://www.linkedin.com/in/gabriel-dultra/)
+- **GitHub:** [exx3c](https://github.com/exx3c/)
+
+---
+
+© [Gabriel Dultra] - Todos os direitos reservados.
