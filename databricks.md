@@ -75,8 +75,6 @@ A estratégia original com pandas consistia em duplicar a coluna 'num' e, em seg
 
 ![image](https://github.com/user-attachments/assets/6ddf890b-fefc-4102-a8c7-f9cd8a2b200e)
 
----
-
 # Conclusão
 
 ## Recursos e Referências
