@@ -287,8 +287,6 @@ O Snowflake também oferece a funcionalidade de criação de Dashboards e Gráfi
 
 ![image](https://github.com/user-attachments/assets/253735c4-9614-4b62-b370-3e26b61dc12e)
 
----
-
 # Conclusão
 
 ## Recursos e Referências
