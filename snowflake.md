@@ -82,6 +82,7 @@ SELECT * FROM Clientes LIMIT 20
 <table>
   <thead>
     <tr>
+     <th></th>
       <th>ClienteID</th>
       <th>Nome</th>
       <th>Idade</th>
@@ -93,6 +94,7 @@ SELECT * FROM Clientes LIMIT 20
   </thead>
   <tbody>
     <tr>
+     <td>0</td>
       <td>1</td>
       <td>Alice</td>
       <td>25</td>
@@ -102,6 +104,7 @@ SELECT * FROM Clientes LIMIT 20
       <td>150.50</td>
     </tr>
     <tr>
+     <td>1</td>
       <td>2</td>
       <td>Bob</td>
       <td>45</td>
@@ -111,6 +114,7 @@ SELECT * FROM Clientes LIMIT 20
       <td>200.75</td>
     </tr>
     <tr>
+     <td>2</td>
       <td>3</td>
       <td>Charlie</td>
       <td>35</td>
