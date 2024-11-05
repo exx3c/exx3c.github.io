@@ -277,7 +277,7 @@ SELECT * FROM ClientesMedias
 ---
 
 ## Snowflake Dashboards (Análise de Dados):
-O Snowflake também nos oferece a funcionalidade de criação de Dashboards e Gráficos para análise visual. Aqui exploramos um pouco dessas funcionalidades utilizando a tabela ```Clientes``` como fonte de dados.
+O Snowflake também oferece a funcionalidade de criação de Dashboards e Gráficos para análise visual. Aqui exploramos um pouco dessas funcionalidades utilizando a tabela ```Clientes``` como fonte de dados.
 
 <h2>Relacionando Idade com ValorCompra através do Gráfico de Barras</h2>
 
