@@ -55,6 +55,7 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
       <br>
       <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#ETL</span>&nbsp;
       <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#Snowflake</span>&nbsp;
+      <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#AwsRedshift</span>&nbsp;
       <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#SQL</span>&nbsp;
       <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#Essentials</span>
       <br>
