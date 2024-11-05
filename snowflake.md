@@ -7,7 +7,7 @@
 Este artigo apresenta conceitos essenciais do Snowflake para Engenharia de Dados, com exemplos práticos de ingestão, transformação e análise de dados. É uma introdução acessível para quem deseja entender as funcionalidades básicas da plataforma e aprender a executar operações simples e essenciais de maneira eficiente.
 
 ## Snowflake Notebook:
-```
+```sql
 CREATE OR REPLACE TABLE Clientes (
     ClienteID INT,
     Nome STRING,
