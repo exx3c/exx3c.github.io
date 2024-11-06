@@ -83,6 +83,16 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><a href="#">&#60;</a></td> <!-- Botão "Anterior" -->
+    <td><a href="#">1</a></td> <!-- Página 1 -->
+    <td><a href="#">2</a></td> <!-- Página 2 -->
+    <td><a href="#">3</a></td> <!-- Página 3 -->
+    <td><a href="#">&#62;</a></td> <!-- Botão "Próxima" -->
+  </tr>
+</table>
+
 ---
 
 ## Projetos
