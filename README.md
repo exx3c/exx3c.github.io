@@ -110,7 +110,7 @@ Projetos que desenvolvi durante minha carreira como Engenheiro de Dados. Explore
 ```python
 # Tecnologias e ferramentas com as quais eu geralmente trabalho ou já trabalhei em meus projetos:
 
-Linguagens               =  ['Python', 'SQL', 'Shell Script', 'JavaScript', 'HTML (Linguagem de Marcação)']
+Linguagens               =  ['Python', 'SQL', 'Shell Script', 'JavaScript', 'HTML']
 Bibliotecas              =  ['Boto3', 'Airflow', 'Pyspark', 'HDFS', 'Psycopg2', 'BeautifulSoup4', 'NumPy', 'Pandas', 'Requests', 'Json']
 Ferramentas_Cloud_AWS    =  ['EC2', 'S3', 'RDS', 'DynamoDB', 'MWAA', 'Redshift', 'Glue', 'Step Functions', 'Lambda', 'Athena', 'Elastic Container Service']
 Ferramentas_Open_Source  =  ['Apache Airflow', 'MongoDB', 'PostgreSQL', 'MySQL', 'Apache Hadoop', 'Apache Spark', 'Apache NiFi']
