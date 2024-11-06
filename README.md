@@ -85,11 +85,11 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
 
 <table>
   <tr>
-    <td><a href="#" style="display: block; text-align: center; padding: 2px;">&#60;</a></td> <!-- Botão "Anterior" -->
-    <td><a href="#" style="display: block; text-align: center; padding: 2px;">1</a></td> <!-- Página 1 -->
-    <td><a href="#" style="display: block; text-align: center; padding: 2px;">2</a></td> <!-- Página 2 -->
-    <td><a href="#" style="display: block; text-align: center; padding: 2px;">3</a></td> <!-- Página 3 -->
-    <td><a href="#" style="display: block; text-align: center; padding: 2px;">&#62;</a></td> <!-- Botão "Próxima" -->
+    <td style="padding: 0px"><a href="#" style="display: block; text-align: center; padding: 6px;">&#60;</a></td> <!-- Botão "Anterior" -->
+    <td style="padding: 0px"><a href="#" style="display: block; text-align: center; padding: 6px;">1</a></td> <!-- Página 1 -->
+    <td style="padding: 0px"><a href="#" style="display: block; text-align: center; padding: 6px;">2</a></td> <!-- Página 2 -->
+    <td style="padding: 0px"><a href="#" style="display: block; text-align: center; padding: 6px;">3</a></td> <!-- Página 3 -->
+    <td style="padding: 0px"><a href="#" style="display: block; text-align: center; padding: 6px;">&#62;</a></td> <!-- Botão "Próxima" -->
   </tr>
 </table>
 
