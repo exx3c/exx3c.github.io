@@ -78,7 +78,7 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
       <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#LeetCode</span>&nbsp;
       <br>
       <i>Publicado em: Novembro de 2024</i><br><br>        
-      <p>Com o objetivo de demonstrar minhas habilidades em algoritmos e estruturas de dados, este artigo sobre LeetCode serve como um convite para explorar meu perfil na plataforma e acompanhar meu progresso enquanto desenvolvo ainda mais minhas competências em programação.</p>
+      <p>Com o objetivo de demonstrar minhas habilidades em algoritmos e estruturas de dados, este artigo sobre LeetCode serve como um convite para explorar meu perfil na plataforma e acompanhar meu progresso.</p>
     </td>
   </tr>
 </table>
