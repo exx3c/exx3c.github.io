@@ -45,6 +45,7 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
       <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#Databricks</span>&nbsp;
       <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#PySpark</span>&nbsp;
       <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#Pandas</span>&nbsp;
+      <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#LeetCode</span>&nbsp;
       <br>
       <i>Publicado em: Outubro de 2024</i><br><br>
       <p>Resolvendo um problema importado do LeetCode com PySpark através do Databricks. O problema aborda manipulação de Dataframes com Operação de Janela, Filtros Condicionais, Agregação e Agrupamento.</p>
@@ -63,6 +64,21 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
       <br>
       <i>Publicado em: Novembro de 2024</i><br><br>        
       <p>Introdução prática ao Snowflake, cobrindo operações SQL essenciais de ingestão, transformação e análise de dados.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="snowflake"><b>[LeetCode: Acelerando o Desenvolvimento de Habilidades em Coding e Lógica]</b></a>
+      <br>
+      <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#Algoritmos</span>&nbsp;
+      <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#EstruturaDeDados</span>&nbsp;
+       <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#ResoluçãoDeProblemas</span>&nbsp;
+      <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#Python</span>&nbsp;
+      <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#SQL</span>&nbsp;
+      <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#LeetCode</span>&nbsp;
+      <br>
+      <i>Publicado em: Novembro de 2024</i><br><br>        
+      <p>Com o objetivo de demonstrar minhas habilidades em algoritmos e estruturas de dados, este artigo sobre LeetCode serve como um convite para explorar meu perfil na plataforma e acompanhar meu progresso enquanto desenvolvo ainda mais minhas competências em programação.</p>
     </td>
   </tr>
 </table>
