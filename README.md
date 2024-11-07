@@ -68,7 +68,7 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
   </tr>
   <tr>
     <td>
-      <a href="snowflake"><b>[LeetCode: Acelerando o Desenvolvimento de Habilidades em Coding e Lógica]</b></a>
+      <a href="leetcode"><b>[LeetCode: Acelerando o Desenvolvimento de Habilidades em Coding e Lógica]</b></a>
       <br>
       <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#Algoritmos</span>&nbsp;
       <span style="background-color:#e0e0e0; color:#333; padding:2px 8px; border-radius:15px; font-size:12px; font-weight:600; border:1px solid #ccc;">#EstruturaDeDados</span>&nbsp;
