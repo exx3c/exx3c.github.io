@@ -1,5 +1,5 @@
 <div style="width: 100%; border: 1px solid #dfe2e5; overflow: hidden; margin-bottom: 16px;">
- <div style="width: 100%; background-image: url('https://raw.githubusercontent.com/exx3c/exx3c.github.io/refs/heads/main/leetcode.png'); background-size: cover;background-position: center; height: 110px;"></div>
+ <div style="width: 100%; background-image: url('https://raw.githubusercontent.com/exx3c/exx3c.github.io/refs/heads/main/leetcode_1.png'); background-size: cover;background-position: center; height: 110px;"></div>
 </div>
 
 # LeetCode: Acelerando o Desenvolvimento de Habilidades em Coding e Lógica
