@@ -2,7 +2,7 @@
  <div style="width: 100%; background-image: url('https://raw.githubusercontent.com/exx3c/exx3c.github.io/refs/heads/main/leetcode_1.png'); background-size: cover;background-position: center; height: 110px;"></div>
 </div>
 
-# LeetCode: Acelerando o Desenvolvimento de Habilidades em Coding e Lógica
+# LeetCode: Acelerando o Desenvolvimento de Habilidades em Programação e Lógica
 
 O [LeetCode](https://leetcode.com/) é uma plataforma amplamente utilizada por desenvolvedores e entusiastas de programação para aprimorar suas habilidades em algoritmos e estruturas de dados. Com uma vasta coleção de problemas, que vão desde os níveis iniciante até os mais avançados, a plataforma oferece um ambiente desafiador para fortalecer a lógica, o raciocínio e a eficiência no código. Além disso, é uma ferramenta indispensável para quem se prepara para entrevistas técnicas, pois seus problemas simulam os desafios comuns encontrados em grandes empresas de tecnologia.
 
