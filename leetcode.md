@@ -18,7 +18,7 @@ O [LeetCode](https://leetcode.com/) é uma plataforma amplamente utilizada por d
 
 Meu perfil no LeetCode é uma entre as representações do meu desenvolvimento em programação e resolução de problemas. Através de problemas variados e utilizando técnicas e abordagens diferentes, venho me tornando um desenvolvedor mais preparado e experiente. Acompanhe meu progresso na plataforma e tenha uma visão um pouco mais clara sobre minha capacidade como programador da area de dados.
 
-<table>
+<table style="width: 100%">
  <tr>
   <td style="padding: 0px"><a href="#" style="display: block; text-align: center; padding: 8px 10px;">VISITAR MEU PERFIL</a></td>
  </tr>
