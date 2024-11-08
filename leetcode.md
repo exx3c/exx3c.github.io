@@ -18,6 +18,10 @@ O [LeetCode](https://leetcode.com/) é uma plataforma amplamente utilizada por d
 
 Meu perfil no LeetCode é uma entre as representações do meu desenvolvimento em programação e resolução de problemas. Através de problemas variados e utilizando técnicas e abordagens diferentes, venho me tornando um desenvolvedor mais preparado e experiente. Acompanhe meu progresso na plataforma e tenha uma visão um pouco mais clara sobre minha capacidade como programador da area de dados.
 
+<div style="padding: 0px">
+ <a href="#">VISITAR MEU PERFIL</a>
+</div>
+
 ## Recursos e Referências
 
 - [API Reference do PySpark](https://spark.apache.org/docs/latest/api/python/reference/index.html)
