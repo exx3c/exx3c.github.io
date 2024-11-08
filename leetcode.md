@@ -20,7 +20,8 @@ Meu perfil no LeetCode é uma entre as representações do meu desenvolvimento e
 
 <table style="width: 100%">
  <tr>
-  <td style="padding: 0px"><a href="#" style="display: block; text-align: center; padding: 8px 10px;">VISITAR MEU PERFIL</a></td>
+  <td style="padding: 0px"><a href="https://leetcode.com/u/exx3c/" style="display: block; text-align: center; padding: 8px 10px;">VISITAR MEU PERFIL</a></td>
+  <!--<td style="padding: 0px"><img src=""></td>-->
  </tr>
 </table>
 
