@@ -98,10 +98,10 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
 ## Projetos
 Projetos que desenvolvi durante minha carreira como Engenheiro de Dados. Explore mais detalhes sobre cada um através dos links:
 
-### 1. Extração de Dados com Requests *(Outubro de 2024)* - [Link para o Projeto](https://github.com/seuusuario/projeto-a)
-   - **Descrição:** Este projeto é um [breve descrição do projeto], criado para [objetivo ou uso do projeto].
-   - **Tecnologias:** [Tecnologias usadas, ex: JavaScript, React, Node.js]
-   - **Destaques:** [Funcionalidades principais, ex: autenticação, CRUD, API REST]
+### 1. Pipeline de Dados Completa com Hadoop e Spark para Transformação e Análise de Dados em Larga Escala *(Dezembro de 2024)* - [Visualizar](https://exx3c.github.io/hadoop)
+   - **Descrição:** Pipeline de dados completa utilizando Hadoop e Apache Spark para processar e transformar grandes volumes de dados de forma distribuída e eficiente. O projeto realiza extração, limpeza e carregamento, proporcionando uma solução escalável para análise de dados em larga escala.
+   - **Tecnologias:** ```IAM, Elastic Container Service, EC2, Docker, Python, HDFS, Pyspark, Apache Spark, SQL, PostgreSQL, Hive, RDS```
+   - **Destaques:** Processamento distribuído com Spark, armazenamento escalável com Hadoop HDFS, transformação e limpeza otimizadas, exportação para análise e visualização, pronto para automação e escalabilidade.
 
 ---
 
