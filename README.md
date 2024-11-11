@@ -100,7 +100,7 @@ Projetos que desenvolvi durante minha carreira como Engenheiro de Dados. Explore
 
 ### 1. Pipeline de Dados Completa com Hadoop e Spark para Transformação e Análise de Dados em Larga Escala *(Dezembro de 2024)* - [Visualizar](https://exx3c.github.io/hadoop)
    - **Descrição:** Pipeline de dados completa utilizando Hadoop e Apache Spark para processar e transformar grandes volumes de dados de forma distribuída e eficiente. O projeto realiza extração, limpeza e carregamento, proporcionando uma solução escalável para análise de dados em larga escala.
-   - **Tecnologias:** ```IAM, Elastic Container Service, EC2, Docker, Python, HDFS, Pyspark, Apache Spark, SQL, PostgreSQL, Hive, RDS```
+   - **Tecnologias:** ```IAM``` ```Elastic Container Service``` ```EC2``` ```Docker``` ```Python``` ```HDFS``` ```Pyspark``` ```Apache Spark``` ```SQL``` ```PostgreSQL``` ```Hive``` ```RDS```
    - **Destaques:** Processamento distribuído com Spark, armazenamento escalável com Hadoop HDFS, transformação e limpeza otimizadas, exportação para análise e visualização, pronto para automação e escalabilidade.
 
 ---
