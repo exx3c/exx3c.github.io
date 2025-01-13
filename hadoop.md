@@ -2,7 +2,7 @@
  <div style="width: 100%; background-image: url('https://raw.githubusercontent.com/exx3c/exx3c.github.io/refs/heads/main/leetcode_1.png'); background-size: cover;background-position: center; height: 220px;"></div>
 </div>
 
-# Projeto de ETL com Hadoop e Apache Spark
+# ETL com Apache Airflow e Hadoop: Uma Pipeline para Visualizações Interativas de Dados Financeiros
 
 ### Índice
 1. [Visão Geral](#visão-geral)
@@ -26,7 +26,7 @@ O principal objetivo deste projeto é demonstrar o uso de ferramentas de orquest
 Mais do que apenas implementar uma solução técnica, este projeto busca explorar a essência do processo ETL, destacando que ele não se limita a dados estruturados ou cálculos matemáticos. A essência do ETL está no ciclo completo que os dados percorrem: desde sua entrada como informação bruta, passando por uma transformação que os contextualiza e agrega valor, até sua saída como um novo objeto com uma função específica. Este processo reflete o propósito principal de pipelines de dados — a geração de valor a partir de informações dispersas e não refinadas.
 
 ## Arquitetura do Pipeline
-O pipeline foi implementada em quatro etapas principais: **1-Extração**, **2-Carregamento**, **3-Transformação** e novamente **4-Carregamento**.
+O pipeline foi implementada em quatro etapas principais: **Extração**, **Carregamento**, **Transformação** e novamente **Carregamento**.
 
 ![Diagrama sem nome drawio (1)](https://github.com/user-attachments/assets/3161fce8-2f5d-495f-a9a6-94d0078ba185)
 
@@ -57,7 +57,9 @@ asdasdasdasd
 
 # Conclusão
 
-blalblalblalblalbalblalbalblalbalb
+A pipeline desenvolvida automatiza o processo de criação de elementos HTML personalizados, economizando tempo e garantindo consistência no design e apresentação das informações. Essa abordagem é ideal para sites que demandam atualizações frequentes, como portfólios financeiros, painéis de controle ou páginas de resumo de investimentos.
+
+Com este projeto, é possivel demonstrar habilidades com pipeline de dados (ETL), integração com APIs, ferramentas como Hadoop e Apache Airflow, manipulação de dados e uso de ferramentas de visualização como o Plotly, além de competências na geração de códigos HTML prontos para integração em sistemas web.
 
 ## Agradecimentos e Contato
 
