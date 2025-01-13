@@ -32,9 +32,10 @@ O pipeline foi implementada em quatro etapas principais: **Extração**, **Carre
 
 ## Tecnologias Utilizadas e Possibilidades de Expansão
 - **Hadoop**: Para o armazenamento distribuído de dados (HDFS).
-- **Apache Spark (Possibilidade)**: Para processamento paralelo e distribuído das tarefas conforme a escalabilidade do projeto.
+- **Apache Airflow**: Para orquestração e gerenciamento das pipelines de ETL.
 - **Python**: Para desenvolvimento dos scripts de ETL e da DAG.
 - **Ferramentas de Visualização**: Qualquer ferramenta capaz de interpretar HTML e CSS.
+- **Apache Spark (Possibilidade)**: Para processamento paralelo e distribuído das tarefas conforme a escalabilidade do projeto.
 - **Ambiente em Nuvem (Possibilidade)**: AWS MWAA, Elastic Container Service, AWS S3.
 
 ## Etapas do Pipeline
