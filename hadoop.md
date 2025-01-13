@@ -19,23 +19,23 @@
 ---
 
 ## Visão Geral
-Este projeto utiliza **Hadoop** para o armazenamento de grandes volumes de dados e **Apache Spark** para o processamento paralelo e distribuído, implementando um pipeline de ETL (Extract, Transform, Load). O projeto demonstra a extração, transformação e carregamento de dados em um ambiente de Big Data e inclui visualizações e insights baseados nos dados transformados.
+Este projeto apresenta a construção de uma pipeline de ETL (Extração, Transformação e Carregamento) para integrar e processar dados financeiros, com o objetivo de automatizar a geração de visualizações interativas em HTML. A proposta central é coletar mensalmente dados de ações da **PETR4** a partir de uma API financeira ([brapi](https://brapi.dev/)), processá-los e transformá-los em um elemento HTML pronto para ser utilizado em um site, blog ou página de resumo.
 
 ## Objetivo do Projeto
-Desenvolver um pipeline de ETL para processar [descreva os dados, e.g., dados de redes sociais, dados de vendas ou logs de servidores] com o objetivo de [explique o que se busca, e.g., análise de comportamento do usuário, detecção de tendências, etc.].
+O principal objetivo deste projeto é demonstrar o uso de ferramentas de orquestração e armazenamento de dados no gerenciamento de pipelines ETL (Extração, Transformação e Carregamento).
+Mais do que apenas implementar uma solução técnica, este projeto busca explorar a essência do processo ETL, destacando que ele não se limita a dados estruturados ou cálculos matemáticos. A essência do ETL está no ciclo completo que os dados percorrem: desde sua entrada como informação bruta, passando por uma transformação que os contextualiza e agrega valor, até sua saída como um novo objeto com uma função específica. Este processo reflete o propósito principal de pipelines de dados — a geração de valor a partir de informações dispersas e não refinadas.
 
 ## Arquitetura do Pipeline
-O pipeline foi implementado em três etapas principais: **Extração**, **Transformação** e **Carregamento**.
+O pipeline foi implementada em quatro etapas principais: **1-Extração**, **2-Carregamento**, **3-Transformação** e novamente **4-Carregamento**.
 
-![Diagrama da Arquitetura do Pipeline](link_para_seu_diagrama.png) <!-- Adicione um diagrama aqui para ilustrar a arquitetura -->
+![Diagrama sem nome drawio (1)](https://github.com/user-attachments/assets/3161fce8-2f5d-495f-a9a6-94d0078ba185)
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas e Possibilidades de Expansão
 - **Hadoop**: Para o armazenamento distribuído de dados (HDFS).
-- **Apache Spark**: Para processamento paralelo e distribuído de dados.
-- **Python**: Para desenvolvimento dos scripts de ETL.
-- **Banco de Dados**: [Escolha do banco de dados, e.g., MySQL, PostgreSQL, NoSQL, etc.]
-- **Ferramentas de Visualização**: [e.g., Tableau, Power BI, Jupyter Notebook]
-- **Ambiente de Nuvem (Opcional)**: [e.g., AWS EMR, Google Cloud Dataproc, etc.]
+- **Apache Spark (Possibilidade)**: Para processamento paralelo e distribuído das tarefas conforme a escalabilidade do projeto.
+- **Python**: Para desenvolvimento dos scripts de ETL e da DAG.
+- **Ferramentas de Visualização**: Qualquer ferramenta capaz de interpretar HTML e CSS.
+- **Ambiente em Nuvem (Possibilidade)**: AWS MWAA, Elastic Container Service, AWS S3.
 
 ## Etapas do Pipeline
 
@@ -51,7 +51,7 @@ import requests
 # Código para extrair dados da API e armazenar no HDFS
 ```
 
-## Tecnologias Utilizadas
+## Resultados e Visualizações
 
 asdasdasdasd
 
