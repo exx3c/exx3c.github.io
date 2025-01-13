@@ -13,11 +13,8 @@
    - [Extração de Dados](#extração-de-dados)
    - [Transformação de Dados](#transformação-de-dados)
    - [Carregamento de Dados](#carregamento-de-dados)
-6. [Como Executar o Projeto](#como-executar-o-projeto)
-7. [Resultados e Visualizações](#resultados-e-visualizações)
-8. [Otimizações e Escalabilidade](#otimizações-e-escalabilidade)
-9. [Possibilidades de Expansão](#possibilidades-de-expansão)
-10. [Conclusão](#conclusão)
+6. [Resultados e Visualizações](#resultados-e-visualizações)
+7. [Conclusão](#conclusão)
 
 ---
 
@@ -53,6 +50,10 @@ A extração de dados foi realizada a partir de [descreva a fonte de dados, e.g.
 import requests
 # Código para extrair dados da API e armazenar no HDFS
 ```
+
+## Tecnologias Utilizadas
+
+asdasdasdasd
 
 # Conclusão
 
