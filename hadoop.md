@@ -1,5 +1,5 @@
 <div style="width: 100%; border: 1px solid #dfe2e5; overflow: hidden; margin-bottom: 16px;">
- <div style="width: 100%; background-image: url('https://raw.githubusercontent.com/exx3c/exx3c.github.io/refs/heads/main/hadoop.png'); background-size: cover;background-position: center; height: 220px;"></div>
+ <div style="width: 100%; background-image: url('https://raw.githubusercontent.com/exx3c/exx3c.github.io/refs/heads/main/DALL·E%202025-01-13%2014.45.38%20-%20A%20formal%20line-art%20style%20drawing%20of%20a%20transformation%20machine%20that%20visually%20represents%20a%20data%20processing%20flow.%20The%20machine%20is%20depicted%20as%20a%20conveyor%20bel.png'); background-size: cover;background-position: center; height: 220px;"></div>
 </div>
 
 # ETL com Apache Airflow e Hadoop: Uma Pipeline para Visualizações Interativas de Dados Financeiros
