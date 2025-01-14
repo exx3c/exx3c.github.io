@@ -8,7 +8,7 @@
 1. [Visão Geral](#visão-geral)
 2. [Objetivo do Projeto](#objetivo-do-projeto)
 3. [Arquitetura do Pipeline](#arquitetura-do-pipeline)
-4. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+4. [Tecnologias Utilizadas](#tecnologias-utilizadas-e-possibilidades-de-expansão)
 5. [Etapas do Pipeline](#etapas-do-pipeline)
    - [Extração de Dados](#extração-de-dados)
    - [Transformação de Dados](#transformação-de-dados)
