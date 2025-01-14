@@ -54,7 +54,10 @@ import requests
 
 ## Resultados e Visualizações
 
-asdasdasdasd
+Neste projeto, após o processo de ETL, os dados são organizados e apresentados em um gráfico interativo gerado pela biblioteca Plotly, que é incorporado em um elemento HTML customizado. O gráfico exemplificado acima é um dos resultados finais gerados pela pipeline.
+
+![image](https://github.com/user-attachments/assets/a1b37621-1847-4056-a449-9ccbb5db3f37)
+
 
 # Conclusão
 
