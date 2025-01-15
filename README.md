@@ -99,9 +99,9 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
 Projetos que desenvolvi durante minha carreira como Engenheiro de Dados. Explore mais detalhes sobre cada um através dos links:
 
 ### 1. Pipeline Completa de Dados com Apache Airflow e Hadoop (HDFS): Uma Pipeline para Visualizações Interativas de Dados Financeiros *(Dezembro de 2024)* - [Visualizar](https://exx3c.github.io/hadoop)
-   - **Descrição:** Pipeline de dados completa utilizando Hadoop e Apache Spark para processar e transformar grandes volumes de dados de forma distribuída e eficiente. O projeto realiza extração, limpeza e carregamento, proporcionando uma solução escalável para análise de dados em larga escala.
-   - **Tecnologias:** ```IAM``` ```Elastic Container Service``` ```EC2``` ```Docker``` ```Python``` ```HDFS``` ```Pyspark``` ```Apache Spark``` ```SQL``` ```PostgreSQL``` ```Hive``` ```RDS```
-   - **Destaques:** Processamento distribuído com Spark, armazenamento escalável com Hadoop HDFS, transformação e limpeza otimizadas, exportação para análise e visualização, pronto para automação e escalabilidade.
+   - **Descrição:** Pipeline de dados para automatizar a coleta, transformação e carregamento de dados financeiros da ação PETR4, utilizando API. O objetivo é processar os dados mensalmente e gerar visualizações interativas em HTML.
+   - **Tecnologias (Usadas ou Relacionadas):** ```Python``` ```Hadoop``` ```Apache Airflow``` ```Docker``` ```Apache Spark``` ```MWAA``` ```S3``` ```Elastic Container Service``` 
+   - **Destaques:** Orquestração da pipeline com Apache Airflow, extração de dados com Requests, armazenamento escalável com Hadoop HDFS, transformação de dados com Python e BeautifulSoup, exportação pronta para uso e integração.
 
 ---
 
