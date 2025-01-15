@@ -87,8 +87,6 @@ Artigos e guias técnicos que exploram o uso de ferramentas em cloud ou local, s
   <tr>
     <td style="padding: 0px"><a href="#" style="display: block; text-align: center; padding: 8px 10px;">&#60;</a></td> <!-- Botão "Anterior" -->
     <td style="padding: 0px"><a href="#" style="display: block; text-align: center; padding: 8px 10px;">1</a></td> <!-- Página 1 -->
-    <td style="padding: 0px"><a href="#" style="display: block; text-align: center; padding: 8px 10px;">2</a></td> <!-- Página 2 -->
-    <td style="padding: 0px"><a href="#" style="display: block; text-align: center; padding: 8px 10px;">3</a></td> <!-- Página 3 -->
     <td style="padding: 0px"><a href="#" style="display: block; text-align: center; padding: 8px 10px;">&#62;</a></td> <!-- Botão "Próxima" -->
   </tr>
 </table>
