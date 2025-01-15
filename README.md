@@ -101,7 +101,7 @@ Projetos que desenvolvi durante minha carreira como Engenheiro de Dados. Explore
 ### 1. Pipeline Completa de Dados com Apache Airflow e Hadoop (HDFS): Uma Pipeline para Visualizações Interativas de Dados Financeiros *(Dezembro de 2024)* - [Visualizar](https://exx3c.github.io/hadoop)
    - **Descrição:** Pipeline de dados para automatizar a coleta, transformação e carregamento de dados financeiros da ação PETR4, utilizando API. O objetivo é processar os dados mensalmente e gerar visualizações interativas em HTML.
    - **Tecnologias (Usadas ou Relacionadas):** ```Python``` ```Hadoop``` ```Apache Airflow``` ```Docker``` ```Apache Spark``` ```MWAA``` ```S3``` ```Elastic Container Service``` 
-   - **Destaques:** Orquestração da pipeline com Apache Airflow, extração de dados com Requests, armazenamento escalável com Hadoop HDFS, transformação de dados com Python e BeautifulSoup, exportação pronta para uso e integração.
+   - **Destaques:** Orquestração da pipelines com Apache Airflow, extração de dados com Requests, armazenamento escalável com Hadoop HDFS, transformação de dados com Python e BeautifulSoup, exportação pronta para uso e integração.
 
 ---
 
