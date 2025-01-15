@@ -12,7 +12,7 @@
 5. [Etapas do Pipeline](#etapas-do-pipeline)
    - [Extração de Dados](#extração-de-dados)
    - [Transformação de Dados](#transformação)
-   - [Carregamento de Dados](#carregamento-(hdfs))
+   - [Carregamento de Dados](#carregamento-hdfs)
 6. [Resultados e Visualizações](#resultados-e-visualizações)
 7. [Conclusão](#conclusão)
 
