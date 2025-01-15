@@ -44,6 +44,7 @@ O pipeline foi implementada em quatro etapas principais: **Extração**, **Carre
 A extração de dados foi realizada a partir de uma API financeira ([brapi](https://brapi.dev/)) onde é fornecido o histórico de mercado de Ações Brasileiras.
 - Extração inicial dos dados.
 - Envio dos dados via cross-communications (XCom).
+  
 ```python
 def get_json():
 
@@ -68,6 +69,7 @@ def get_json():
 O processo inclui:
 - Criação e configuração do gráfico usando Plotly.
 - Montagem do elemento HTML usando um template como base para inserção.
+  
 ```python
 def create_chart(ti):
     json_data = ti.xcom_pull(task_ids='get_json')
@@ -170,6 +172,7 @@ def assemble_html(ti):
 - Upload dos dados brutos recebidos diretamente da API.
 - Upload do elemento HTML pronto para uso.
 - Carregamento do template HTML (uma única vez).
+  
 ```python
 def upload_json(ti):
     date = datetime.now()
