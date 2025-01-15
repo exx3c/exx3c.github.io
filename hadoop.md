@@ -70,7 +70,7 @@ O processo inclui:
 - Montagem do elemento HTML usando um template como base para inserção.
 ```python
 def create_chart(ti):
-    json_data = ti.xcom_pull(task_ids='task1')
+    json_data = ti.xcom_pull(task_ids='get_json')
     json_data = json.loads(json_data)
 
     dates = []
@@ -78,7 +78,7 @@ def create_chart(ti):
 
     for x in json_data['results'][0]['historicalDataPrice']:
         dates.append(datetime.date.fromtimestamp(x['date']))
-        values.append(float(x['adjustedClose']))
+        values.append(float(x['close']))
 
     fig = go.Figure()
 
@@ -92,22 +92,24 @@ def create_chart(ti):
     ))
 
     fig.update_layout(
-        xaxis=dict(tickprefix='R$ ', showgrid=True),
-        yaxis=dict(showgrid=True),
+        margin=dict(l=10, r=10, t=10, b=10),
+        xaxis=dict(fixedrange=True, showgrid=True),
+        yaxis=dict(fixedrange=True, tickprefix='R$ ',showgrid=True),
         template="plotly_white",
-        width=600,
+        autosize=True,
+        width=None,
         height=400
     )
 
-    html_element = to_html(fig, full_html=False)
+    html_element = to_html(fig, full_html=False, config={'displayModeBar': False})
 
-    return html_element
+    return BeautifulSoup(html_element, 'html.parser')
 
 
 
 def assemble_html(ti):
-    html_chart = ti.xcom_pull(task_ids='taskchart')
-    json_data = ti.xcom_pull(task_ids='task1')
+    html_chart = ti.xcom_pull(task_ids='create_chart')
+    json_data = ti.xcom_pull(task_ids='get_json')
     json_data = json.loads(json_data)
 
 
@@ -137,7 +139,7 @@ def assemble_html(ti):
         change_price.string = f'R$ {json_data['results'][0]['regularMarketChange']}'
         change_percentage.string = f'{json_data['results'][0]['regularMarketChangePercent']}%'
 
-        date_last_update = datetime.strptime(json_data['results'][0]['regularMarketChangePercent'],
+        date_last_update = datetime.datetime.strptime(str(json_data['results'][0]['regularMarketTime']),
                                              "%Y-%m-%dT%H:%M:%S.%fZ")
         date_last_update = date_last_update.strftime("%d/%m/%Y %H:%M")
         last_update.string = f'Última atualização: {date_last_update}'
@@ -146,16 +148,16 @@ def assemble_html(ti):
         min.string = f'R$ {json_data['results'][0]['regularMarketDayLow']}'
         max.string = f'R$ {json_data['results'][0]['regularMarketDayHigh']}'
 
-        chart.string = html_chart
+        chart.append(html_chart)
 
 
         # setting html objects styles
         if json_data['results'][0]['regularMarketChangePercent'] < 0:
-            change_percentage['style'] += 'background-color: #c31b1b !important;'
+            if 'style' in change_percentage.attrs:
+                change_percentage['style'] += 'background-color: #c31b1b !important;'
 
-        if json_data['results'][0]['regularMarketPrice'] < 0:
-            price['style'] += 'color: #c31b1b !important;'
-
+            else:
+                change_percentage['style'] = 'background-color: #c31b1b !important;'
 
         return str(soup)
 
@@ -171,7 +173,7 @@ def assemble_html(ti):
 ```python
 def upload_json(ti):
     date = datetime.now()
-    json_data = ti.xcom_pull(task_ids='task1')
+    json_data = ti.xcom_pull(task_ids='get_json')
     file_name = f'PETR4_{date.strftime("%b").lower()}{date.year}.json'
 
     try:
@@ -190,7 +192,7 @@ def upload_json(ti):
 
 def upload_html(ti):
     date = datetime.now()
-    html_data = ti.xcom_pull(task_ids='taskhtml')
+    html_data = ti.xcom_pull(task_ids='assemble_html')
     file_name = f'PETR4_{date.strftime("%b").lower()}{date.year}.html'
 
     try:
@@ -249,7 +251,7 @@ with DAG(
     )
 
     create_chart = PythonOperator(
-        task_id='crate_chart',
+        task_id='create_chart',
         python_callable=utils.create_chart,
         dag=dag,
     )
